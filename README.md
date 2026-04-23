@@ -54,7 +54,7 @@ Telethon ကိုသုံးပြီး API အတိုင်းသေ​ေ
 
 **Developer kid**
 - Creator: MgKaung  
-- Telegram [@usernamevip1](https://t.me/usernamevip1)
+- Telegram [@mgK755](https://t.me/mgK755)
 
 
 
